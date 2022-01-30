@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the basics of computer science, including Python.
 - 👯 I’m a high school student from California.
 - 📫 How to reach me: cieloaloy@gmail.com
-- 😄 Pronouns: they/he
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: I've also been learning Spanish! 
 
 
