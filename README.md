@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a UC San Diego Computer Science B.S. major in my final year, ready for my skills to blossom in a Java development role. 
+I'm a UC San Diego Computer Science B.S. major in my final year, ready for my skills to blossom in a security-oriented role. 
 
 Check out my [portfolio](https://cieloaloy.github.io/portfolio/)!
 
