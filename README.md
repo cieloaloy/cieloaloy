@@ -1,7 +1,7 @@
 ### 💙🐈 Nice to meet you! 🐈💙
 
 I'm Cielo, and I...  
-🔵 just graduated from UCSD with my Computer Science Bachelor's,  
+🔵 graduated from UCSD with my Computer Science Bachelor's,  
 🔵 am ready for my skills to blossom in a security-oriented IT role,  
 🔵 and am currently writing IT / DFIR blog posts for my [portfolio](https://cieloaloy.netlify.app/) hosted on Netlify!
 
